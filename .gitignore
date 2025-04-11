@@ -1,0 +1,3 @@
+# Ignore system and app-related directories
+AppData/
+*.jtx
